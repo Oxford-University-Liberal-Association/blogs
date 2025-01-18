@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech on OSLA - Blog</title>
+    <link>http://localhost:1313/categories/tech/</link>
+    <description>Recent content in Tech on OSLA - Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jan 2025 22:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/_test/</link>
+      <pubDate>Wed, 15 Jan 2025 22:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/_test/</guid>
+      <description>&lt;h2 id=&#34;welcome-to-my-blog&#34;&gt;Welcome to My Blog!&lt;/h2&gt;&#xA;&lt;p&gt;This is my first blog post using Hugo and the Lightbi theme. Here’s what I’ve learned:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Hugo is fast.&lt;/li&gt;&#xA;&lt;li&gt;Markdown makes writing posts easy.&lt;/li&gt;&#xA;&lt;li&gt;Themes like Lightbi make your site look great.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;subheading-example&#34;&gt;Subheading Example&lt;/h3&gt;&#xA;&lt;p&gt;You can use Markdown to format your text easily:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Bold text&lt;/strong&gt;: &lt;code&gt;**bold**&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Italic text&lt;/em&gt;: &lt;code&gt;*italic*&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://example.com&#34;&gt;Links&lt;/a&gt;: &lt;code&gt;[Link text](URL)&lt;/code&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Here’s some code:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

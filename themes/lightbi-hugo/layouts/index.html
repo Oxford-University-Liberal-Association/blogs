@@ -1,0 +1,45 @@
+{{ define "main" }}
+
+<!-- Introduction Section -->
+<div class="intro-header">
+  <img src="/images/logo-banner.png" alt="OSLA Logo" class="align-center" style="height: 500px; width: auto; object-fit: contain; justify-content: center;">
+</div>
+
+<!-- Main Content Container -->
+<div class="container" role="main">
+  <!-- Content Section -->
+  <div class="row">
+    {{ with .Content }}
+    <div class="well mb-5">
+      {{ . }}
+    </div>
+    {{ end }}
+  </div>
+
+  <!-- Gallery Section -->
+  <div class="row mb-5">
+    <div class="col-12">
+      <h3 class="text-center mb-4">Our Latest Blogs</h3>
+      <div class="gallery">
+        {{ $pag := .Paginate (where site.RegularPages "Type" "blog") 9 }}
+        {{ range $pag.Pages }}
+        <div class="gallery-item">
+          {{ partial "post_preview_card" . }}
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+
+  <!-- Pagination Section -->
+  <div class="row font-sans">
+    <div class="col-md-12 mt-4">
+      <nav aria-label="Page navigation">
+        <div class="pagination justify-content-end">
+          {{ template "_internal/pagination.html" $pag }}
+        </div>
+      </nav>
+    </div>
+  </div>
+</div>
+{{ end }}

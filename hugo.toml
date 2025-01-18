@@ -1,0 +1,33 @@
+baseURL = 'blog.oxuniliberals.com'
+languageCode = 'en-gb'
+title = 'OSLA - Blog'
+theme = 'lightbi-hugo'
+
+[params]
+  readingTime = true
+  wordCount = true
+
+
+
+[Params.Author]
+    name = "The Oxford Students Liberal Association (OSLA)"
+    website = "https://www.oxuniliberals.com/"
+
+
+[[menu.main]]
+    name = "Main Website"
+    url = "https://www.oxuniliberals.com/"
+    weight = 3
+
+[[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 3
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[outputs]
+  home = ["HTML", "JSON"]

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Development on OSLA - Blog</title>
+    <link>http://localhost:1313/categories/web-development/</link>
+    <description>Recent content in Web Development on OSLA - Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/blog/my-first-post/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;welcome-to-the-oxford-students-liberal-association&#34;&gt;Welcome to the Oxford Students&amp;rsquo; Liberal Association!&lt;/h1&gt;&#xA;&lt;p&gt;Hello, and welcome to the Oxford Students&amp;rsquo; Liberal Association (OSLA), a space dedicated to championing liberal values, fostering political debate, and building a vibrant community for students at Oxford.&lt;/p&gt;&#xA;&lt;h2 id=&#34;who-are-we&#34;&gt;Who Are We?&lt;/h2&gt;&#xA;&lt;p&gt;OSLA is a hub for students who share a passion for freedom, fairness, and the pursuit of progressive change. Whether you’re already politically engaged or just beginning to explore your political identity, OSLA is here to provide a platform for learning, discussion, and action.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
