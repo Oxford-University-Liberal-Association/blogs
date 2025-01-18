@@ -2,6 +2,7 @@ baseURL = 'https://blog.oxuniliberals.com'
 languageCode = 'en-gb'
 title = 'OSLA - Blog'
 theme = 'lightbi-hugo'
+relativeURLs = true
 
 [params]
   readingTime = true
