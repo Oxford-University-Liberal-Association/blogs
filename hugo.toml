@@ -1,4 +1,4 @@
-baseURL = 'https://blog.oxuniliberals.com'
+baseURL = 'https://blog.oxuniliberals.com/'
 languageCode = 'en-gb'
 title = 'OSLA - Blog'
 theme = 'lightbi-hugo'
