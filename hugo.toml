@@ -1,4 +1,4 @@
-baseURL = 'https://blogs-osla.netlify.app/'
+baseURL = 'https://blog.oxuniliberals.com/'
 languageCode = 'en-gb'
 title = 'OSLA - Blog'
 theme = 'lightbi-hugo'
