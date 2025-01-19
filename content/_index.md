@@ -6,5 +6,5 @@ society_role: "The Webmaster"
 tags: []
 categories: []
 ---
-# [NEW FOR MT25] Welcome to OSLA's Blog Website ...
+# Welcome to OSLA's Blog Website
 ---
