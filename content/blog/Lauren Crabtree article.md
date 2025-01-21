@@ -5,7 +5,7 @@ date: 2025-01-21
 author: "Lauren Crabtree Article"
 college: "Pembroke College Oxford"
 society_role: "The Treasurer"
-tags: ["Welcome"]
+tags: ["HT25"]
 categories: ["HT25 - Freedom of the Press"]
 ---
 
