@@ -16,20 +16,20 @@
     {{ end }}
   </div>
 
-  <!-- Gallery Section -->
-  <div class="row mb-5">
-    <div class="col-12">
-      <h3 class="text-center mb-4">Our Latest Blogs</h3>
-      <div class="gallery">
-        {{ $pag := .Paginate (where site.RegularPages "Type" "blog") 9 }}
-        {{ range $pag.Pages }}
-        <div class="gallery-item">
-          {{ partial "post_preview_card" . }}
-        </div>
-        {{ end }}
+<!-- Gallery Section -->
+<div class="row mb-5">
+  <div class="col-12">
+    <h3 class="text-center mb-4">Our Latest Blogs</h3>
+    <div class="gallery" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 16px;">
+      {{ $pag := .Paginate (where site.RegularPages "Type" "blog") 9 }}
+      {{ range $pag.Pages }}
+      <div class="gallery-item" style="background: #f9f9f9; padding: 10px; border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+        {{ partial "post_preview_card" . }}
       </div>
+      {{ end }}
     </div>
   </div>
+</div>
 
   <!-- Pagination Section -->
   <div class="row font-sans">
