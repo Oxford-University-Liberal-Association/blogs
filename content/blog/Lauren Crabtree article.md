@@ -6,7 +6,7 @@ author: "Lauren Crabtree Article"
 college: "Pembroke College Oxford"
 society_role: "The Treasurer"
 tags: ["Welcome"]
-categories: ["HT24 - Freedom of The Press"]
+categories: ["HT25 - Freedom of the Press"]
 ---
 
 Modern Britain prides itself on placing ordinary, working-class people at the forefront of society since its adoption of a meritocratic social agenda in the late 20th century. It would be ignorant to dismiss the rapid social progression that has followed. However, the popularisation of inclusivity initiatives has uncovered numerous shortfalls, creating an invisible working class.
