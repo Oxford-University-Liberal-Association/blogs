@@ -8,7 +8,8 @@ society_role: "Social Secretary"
 tags: ["HT25"]
 categories: ["HT25 - Freedom of the Press"]
 ---
-We appear to live in an age of media games, of rhetoric, of the sound bite and the one-liner. An age of Brexit, of Boris and of a Britain that everyone seems to agree isn’t going so well. An age of identity politics, the Ben Shapiro’s, the TikTok debates, and of Elon musk buying twitter in the name of “free speech”. Through all this, I wonder, have we lost the point? 
+We appear to live in an age of media games, of rhetoric, of the sound bite and the one-liner. An age of Brexit, of Boris and of a Britain that everyone seems to agree isn’t going so well. An age of identity politics, the Ben Shapiro’s, the TikTok debates, and of Elon musk buying twitter in the name of “free speech”. Through all this, I wonder, have we lost the point?
+<!--more-->
 
 It seems like we have forgotten what matters: the actual governing. When Boris claims he’ll “Get Brexit done”, what was it he was really doing? Was it the customs union? As if the average voter knew what that meant. Was it the immigration? As if they’ve achieved that. Or was it in fact £350 million that would fix our NHS? Nearly 10 years on I’m not sure that’s been done either. It’s all well and good to speak in grand terms, to promise big things and make bold pledges, but the reality of government seems especially boring. Should we be taking politics more seriously? 
 
@@ -22,4 +23,4 @@ Politics has never been simple, but today it seems more complicated than ever. P
 
 
 
-<!--more-->
+

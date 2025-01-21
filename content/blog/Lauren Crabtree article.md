@@ -3,7 +3,7 @@ title: "The Invisible Working Class"
 draft: false
 date: 2025-01-21
 author: "Lauren Crabtree"
-college: "Pembroke College Oxford"
+college: "Pembroke College"
 society_role: "The Treasurer"
 tags: ["HT25"]
 categories: ["HT25 - Freedom of the Press"]
