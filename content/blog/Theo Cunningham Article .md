@@ -5,7 +5,7 @@ date: 2025-01-21
 author: "Theo Cunningham"
 college: "St John's College"
 society_role: "Social Secretary"
-tags: ["Welcome"]
+tags: ["HT25"]
 categories: ["HT25 - Freedom of the Press"]
 ---
 We appear to live in an age of media games, of rhetoric, of the sound bite and the one-liner. An age of Brexit, of Boris and of a Britain that everyone seems to agree isn’t going so well. An age of identity politics, the Ben Shapiro’s, the TikTok debates, and of Elon musk buying twitter in the name of “free speech”. Through all this, I wonder, have we lost the point? 
