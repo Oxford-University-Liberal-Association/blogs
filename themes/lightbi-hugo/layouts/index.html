@@ -16,30 +16,30 @@
     {{ end }}
   </div>
 
-  <!-- Gallery Section -->
-  <div class="row mb-5">
-    <div class="col-12">
-      <h3 class="text-center mb-4">Our Latest Blogs</h3>
-      <div class="gallery">
-        {{ $pag := .Paginate (where site.RegularPages "Type" "blog") 9 }}
+  <!-- Blog Section -->
+  <div class="row mb-5 justify-content-center">
+    <div class="col-10">
+      {{ $pag := .Paginate (where site.RegularPages "Type" "blog") 9 }}
+      <div class="row justify-content-center">
         {{ range $pag.Pages }}
-        <div class="gallery-item">
-          {{ partial "post_preview_card" . }}
-        </div>
+          <div class="col-10 mb-4">
+            {{ partial "post_preview_card" . }}
+          </div>
         {{ end }}
       </div>
     </div>
   </div>
 
   <!-- Pagination Section -->
-  <div class="row font-sans">
-    <div class="col-md-12 mt-4">
+  <div class="row font-sans justify-content-center">
+    <div class="col-md-10 mt-4">
       <nav aria-label="Page navigation">
-        <div class="pagination justify-content-end">
+        <div class="pagination justify-content-center">
           {{ template "_internal/pagination.html" $pag }}
         </div>
       </nav>
     </div>
   </div>
 </div>
+
 {{ end }}

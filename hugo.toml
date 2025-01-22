@@ -7,6 +7,7 @@ relativeURLs = true
 [params]
   readingTime = true
   wordCount = true
+  customCSS = ["css/custom.css"]
 
 
 

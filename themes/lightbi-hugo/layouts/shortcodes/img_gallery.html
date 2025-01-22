@@ -1,44 +1,48 @@
-{{ $folder := .Get "folder" }}
-{{ $images := resources.Match (printf "%s/*.{jpg,png}" $folder) }}
-
 <div class="container">
     <div class="gallery">
-        {{ range $images }}
-        <a href="{{ .RelPermalink }}" class="glightbox" class="gallery-item">
-            <img src="{{ .RelPermalink }}" alt="{{ .Name | plainify }}" class="img-fluid rounded mb-2" />
+        {{ $pag := .Paginate (where site.RegularPages "Type" "blog") 9 }}
+        {{ range $pag.Pages }}
+        <a href="{{ .Permalink }}" class="gallery-item">
+            <div class="card shadow border">
+                <img src="{{ .Params.featuredImage }}" alt="{{ .Title }}" class="img-fluid rounded mb-2" />
+                <div class="card-body">
+                    <h3>{{ .Title }}</h3>
+                    <p>{{ .Summary }}</p>
+                </div>
+            </div>
         </a>
         {{ end }}
     </div>
 </div>
 
 <style>
-    /* CSS Columns for Masonry effect */
     .gallery {
-        column-count: 3;
-        /* Number of columns */
+        column-count: 1;
         column-gap: 15px;
-        /* Space between columns */
     }
 
     .gallery-item {
         display: inline-block;
         width: 100%;
         break-inside: avoid;
-        /* Prevents items from breaking across columns */
     }
 
-    .gallery img {
+    .card {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+
+    .card img {
         width: 100%;
         height: auto;
         transition: transform 0.3s ease;
         border-radius: 4px;
     }
 
-    .gallery img:hover {
+    .card img:hover {
         transform: scale(1.05);
     }
 
-    /* Responsive adjustments */
     @media (max-width: 992px) {
         .gallery {
             column-count: 3;
@@ -56,16 +60,4 @@
             column-count: 1;
         }
     }
-
-    .glightbox-open {
-        height: auto;
-    }
 </style>
-
-<!-- Initialize GLightbox -->
-<script>
-    const lightbox = GLightbox({
-        selector: '.glightbox',
-        scrollLock: false  // Prevents GLightbox from locking the scroll
-    });
-</script>
