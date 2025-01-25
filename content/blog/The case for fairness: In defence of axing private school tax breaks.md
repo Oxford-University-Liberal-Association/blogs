@@ -1,0 +1,21 @@
+---
+title: "The Case for Fairness: In Defense of Axing Private School Tax Breaks"
+draft: false
+date: 2025-01-25
+author: "Harry Aldridge"
+college: "New College"
+society_role: "Member"
+tags: ["HT25"]
+categories: ["HT25 - Freedom of the Press"]
+---
+On July 5th 2024, Labour took office with a mandate to apply Value Added Tax (VAT) at the standard rate of 20% on private school fees, and to revoke the charitable business rates relief currently enjoyed by England’s fee-paying schools . Since then, this policy has faced a more sustained and intense wave of opposition in the media than perhaps any other proposal in the party’s platform. Despite opinion polls indicating that the plan has garnered widespread public support, outlets like the Daily Mail continue to insist that a ‘class war’ is somehow being waged by the government.  
+
+Some commentators have even argued that the government’s plan to axe the tax breaks afforded to private schools is driven by ‘envy and spite,’ yet this position seems wholly out of touch. The move is merely a pragmatic choice to direct further funds to state schools which have faced slashing cuts, with the Institute for Fiscal Studies estimating that it could raise £1.3-1.5 billion. Even Michael Gove, the former Conservative Education Secretary, argued in 2017 that this “egregious state support” should be scrapped to drive up funding for the 93% of students who attend state schools. Money which is desperately needed to repair crumbling classrooms, to tackle the teacher retention and recruitment crisis, and to close the widening attainment gap. 
+
+The need to impose VAT on private school fees to boost standards in the state sector has never been more urgent. Since 2010, the gap between private school fees and per pupil funding in state schools across England has more than doubled. Private schools have enjoyed generous tax breaks and rising fees in real terms, meaning that they can offer smaller class sizes and have the resources to foster essential life skills such as oracy. Meanwhile, state schools have been left struggling to afford the basics after years of underfunding. This has left the attainment gap stubbornly wide, with private school pupils now more than twice as likely to achieve the top grades at A-level compared to their state school counterparts. 
+
+The primary argument against this policy is the claim that it could drive families out of private schools, resulting in a mass influx of pupils into the already overstretched state sector. However, this claim does not stand up to scrutiny. Private schools have consistently hiked their fees at a rate well above inflation, and the movement of pupils into the state sector has been minimal. From 2003-04 to 2019-20, private school fees rose by 55% in real terms, but the number of students at private schools remained relatively stable, and demand for private education remained largely unchanged.  
+
+Applying VAT to private school fees is not only a matter of starting to level the playing field, but it is also a fundamental question of fairness and consistency. Private education is a luxury that remains out of reach for the vast majority of families in England, making it difficult to justify exempting fee-paying schools from a tax that applies to countless other goods and services. Furthermore, private schools, which enjoy vast resources, are under no obligation to pass the full cost of the VAT onto parents: they have the capacity to absorb a significant proportion of it. 
+
+From my own experience in a state school, I know that, despite the dedication of teaching staff, sustained cuts to per pupil funding and inequalities in levels of access to education throughout the pandemic have widened the attainment gap. In contrast, private schools continue to offer benefits far beyond the curriculum, from enhanced guidance to help students secure places on the most competitive university courses to a breadth of extra-curricular activities. Against this backdrop, it seems unjustifiable for £1.7 billion to be spent each year providing tax exemptions for some of the most elite institutions in the country. Labour’s plans should not be viewed as an ideological battle but as the right choice to make our tax system fairer and to divert more funds towards our struggling state schools. 
