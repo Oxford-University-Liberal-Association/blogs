@@ -1,44 +1,42 @@
 <!-- layouts/partials/post_preview_top_img_cards.html -->
 
-<div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mb-4">
-    <a href="{{ .Permalink }}">
-        <div class="card single-post-card h-100 shadow-effect border">
-            {{ with partial "get_image" . }}
-                <img src="{{ .RelPermalink }}" alt="{{ .Title }}"
-                    class="card-img-top img-fluid lazyload">
+<a href="{{ .Permalink }}">
+    <div class="card single-post-card h-100 shadow-effect border">
+        {{ with partial "get_image" . }}
+            <img src="{{ .RelPermalink }}" alt="{{ .Title }}"
+                class="card-img-top img-fluid lazyload">
+        {{ end }}
+
+        {{ if .Params.video }}
+            <video loop autoplay muted playsinline class="img-title">
+                <source src="{{ .Params.video }}">
+            </video>
+        {{ end }}
+
+        <div class="card-body">
+            {{ if .Params.subtitle }}
+                <h3 class="post-subtitle">
+                    {{ .Params.subtitle }}
+                </h3>
             {{ end }}
 
-            {{ if .Params.video }}
-                <video loop autoplay muted playsinline class="img-title">
-                    <source src="{{ .Params.video }}">
-                </video>
-            {{ end }}
+            <p class="post-meta">
+                {{ partial "post_meta_notes.html" . }}
+            </p>
 
-            <div class="card-body">
-                {{ if .Params.subtitle }}
-                    <h3 class="post-subtitle">
-                        {{ .Params.subtitle }}
-                    </h3>
+            <div class="post-entry">
+                {{ if .Description }}
+                    {{ .Description }}
+                {{ else }}
+                    {{ .Summary }}
                 {{ end }}
+            </div>
 
-                <p class="post-meta">
-                    {{ partial "post_meta_notes.html" . }}
-                </p>
-
-                <div class="post-entry">
-                    {{ if .Description }}
-                        {{ .Description }}
-                    {{ else }}
-                        {{ .Summary }}
-                    {{ end }}
-                </div>
-
-                <div class="read-more-section">
-                    <h6 class="text-muted link-underline">
-                        {{ i18n "readMore" }} <i class="bi bi-arrow-right"></i>
-                    </h6>
-                </div>
+            <div class="read-more-section">
+                <h6 class="text-muted link-underline">
+                    {{ i18n "readMore" }} <i class="bi bi-arrow-right"></i>
+                </h6>
             </div>
         </div>
-    </a>
-</div>
+    </div>
+</a>

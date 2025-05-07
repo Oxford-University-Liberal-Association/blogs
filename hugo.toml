@@ -5,11 +5,9 @@ theme = 'lightbi-hugo'
 relativeURLs = true
 
 [params]
-  readingTime = true
-  wordCount = true
   customCSS = ["css/custom.css"]
-
-
+  lunrSearch = true
+  mainSections = ["content/blogs","blogs"]
 
 [Params.Author]
     name = "The Oxford Students Liberal Association (OSLA)"
@@ -27,9 +25,10 @@ relativeURLs = true
     weight = 3
 
 [sitemap]
-  changefreq = "monthly"
+  changefreq = "weekly"
   priority = 0.5
   filename = "sitemap.xml"
 
 [outputs]
   home = ["HTML", "JSON"]
+  
