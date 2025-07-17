@@ -1194,6 +1194,171 @@ ul.share li:hover .fab {
   flex-direction: row;
 }
 
+/* Submission Box Styles */
+.submission-box {
+  padding: 1.5rem;
+  margin: 2rem 0;
+  background-color: #f8f9fa;
+  border-radius: 0.375rem;
+  overflow: hidden;
+}
+
+.submission-box h5 {
+  color: #596073;
+  font-weight: 500;
+  font-size: 14px;
+  margin-bottom: 8px;
+  text-transform: none;
+}
+
+.submission-box p {
+  color: #596073;
+  font-size: 14px;
+  line-height: 1.5;
+  margin: 0;
+}
+
+.submission-box .btn {
+  padding: 0.5rem 1rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  min-width: 160px;
+}
+
+.submission-box .btn-primary {
+  background-color: transparent;
+  border: 1px solid #596073;
+  color: #596073;
+  font-weight: 500;
+  text-transform: none;
+  font-size: 14px;
+  letter-spacing: 0;
+  padding: 8px 16px;
+  border-radius: 0;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.submission-box .btn-primary:hover {
+  background-color: #596073;
+  border-color: #596073;
+  color: #FFF;
+}
+
+/* Submission Banner Styles */
+.submission-banner {
+  background: #f5f5f7;
+  border: none;
+  border-radius: 0;
+  color: #596073;
+  font-size: 14px;
+  padding: 12px 0;
+  border-bottom: 1px solid #EAEAEA;
+}
+
+.submission-banner strong {
+  font-weight: 500;
+  color: #596073;
+}
+
+.submission-banner .alert-link {
+  color: #596073;
+  text-decoration: underline;
+  font-weight: 500;
+  text-transform: none;
+  font-size: 14px;
+  letter-spacing: 0;
+}
+
+.submission-banner .alert-link:hover {
+  color: #344854;
+  text-decoration: none;
+}
+
+.submission-banner .btn-close {
+  filter: none;
+  opacity: 0.6;
+  font-size: 14px;
+}
+
+.submission-banner .btn-close:hover {
+  opacity: 1;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .submission-box {
+    padding: 15px;
+    margin: 20px 0;
+  }
+  
+  .submission-box .btn {
+    width: 100%;
+    margin-top: 10px;
+  }
+  
+  .submission-banner {
+    font-size: 13px;
+    padding: 10px 0;
+  }
+  
+  .submission-banner .row {
+    text-align: center;
+  }
+}
+
+/* Desktop specific adjustments for better centering */
+@media (min-width: 768px) {
+  .submission-box {
+    padding: 25px 30px;
+  }
+  
+  .submission-box .row {
+    align-items: center;
+  }
+  
+  .submission-box .btn-primary {
+    white-space: nowrap;
+  }
+}
+
+/* Extra responsive adjustments for high zoom levels */
+@media screen and (max-width: 992px) {
+  .submission-box {
+    padding: 1.25rem;
+  }
+  
+  .submission-box .row {
+    flex-direction: column;
+  }
+  
+  .submission-box h5 {
+    font-size: 1.15rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .submission-box p {
+    font-size: 0.9rem;
+    margin-bottom: 1rem !important;
+  }
+}
+
+/* Extreme zoom adjustments */
+@media screen and (max-width: 576px) {
+  .submission-box {
+    padding: 1rem;
+    word-wrap: break-word;
+  }
+  
+  .submission-box .btn {
+    margin-top: 0.5rem;
+    width: 100%;
+  }
+}
+
+
+
 /* --- Dark mode --- */
 
 :root[data-theme="dark"] {

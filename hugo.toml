@@ -15,12 +15,17 @@ relativeURLs = true
 
 
 [[menu.main]]
-    name = "Main Website"
+    name = "Main"
     url = "https://www.oxuniliberals.com/"
     weight = 3
 
 [[menu.main]]
-    name = "Tags"
+    name = "Submit Article"
+    url = "https://oxuniliberals.com/submit-article"
+    weight = 30
+
+[[menu.main]]
+    name = "Term tags"
     url = "/tags/"
     weight = 3
 
