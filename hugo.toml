@@ -10,7 +10,7 @@ relativeURLs = true
   mainSections = ["content/blogs","blogs"]
 
 [Params.Author]
-    name = "The Oxford Students Liberal Association (OSLA)"
+    name = "The Oxford Students Liberal Association (OSLA) - Liberal Since 1913"
     website = "https://www.oxuniliberals.com/"
 
 
