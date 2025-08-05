@@ -19,8 +19,4 @@ Despite this - or maybe because of it - people don’t seem to be engaging in po
 
 Perhaps more concerningly, while we all discuss how immorally dashing Keir Starmer looks in his newest suit, the world moves on. When politicians are caught in the political minefield of the day, how can they continue to legislate effectively? This means those in places of power, like Mr. Musk, like Mr. Murdoch, like big tech become less and less accountable, each and every day, in a world that needs regulation more than ever. Government must hold this power to account, or in time there may be no government. Moreover, there seems to be an unsettling rise in political movements dependent on this misinformation, that use this confusion and emotion as their fuel. 
 
-Politics has never been simple, but today it seems more complicated than ever. Politics needs emotion, it needs values and principles, but the name of these things, our democracy is being broken down. We are led, ever closer to corporate capture, to poor governance and the breakdown of our liberal order. Politics is confusing, but we need it, we need to think about it, to talk about it, to engage in it, and I really hope we can do that without the scandal, without the poll, or the story. Politics is complicated, but it can work, we need to make it work, or we must live with the consequences.  
-
-
-
-
+Politics has never been simple, but today it seems more complicated than ever. Politics needs emotion, it needs values and principles, but the name of these things, our democracy is being broken down. We are led, ever closer to corporate capture, to poor governance and the breakdown of our liberal order. Politics is confusing, but we need it, we need to think about it, to talk about it, to engage in it, and I really hope we can do that without the scandal, without the poll, or the story. Politics is complicated, but it can work, we need to make it work, or we must live with the consequences.

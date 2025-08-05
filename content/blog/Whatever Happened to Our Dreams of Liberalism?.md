@@ -9,8 +9,9 @@ tags: ["TT25"]
 categories: ["TT25 - Dreams of Liberalism"]
 ---
 
-
-Liberalism, once the shining force behind Western democracy and global progress, now finds itself in a state of disrepair. It's like that beloved cardigan we once wore proudly—it stood for rationality, order, and fairness, but now it looks tired, threadbare, and borderline embarrassing to wear outside. It's not just an old-fashioned fashion statement but an ideological crisis.
+Liberalism, once the shining force behind Western democracy and global progress, now finds itself in a state of disrepair.
+<!--more--> 
+It's like that beloved cardigan we once wore proudly—it stood for rationality, order, and fairness, but now it looks tired, threadbare, and borderline embarrassing to wear outside. It's not just an old-fashioned fashion statement but an ideological crisis.
 
 The world we inhabit in 2025 bears little resemblance to the one we envisioned in the Blair years, when politics had a sheen of optimism. Tony Blair strode across the global stage with the calm confidence of a leading man in a Richard Curtis rom-com, promising "Cool Britannia" and an ever-brighter future.
 

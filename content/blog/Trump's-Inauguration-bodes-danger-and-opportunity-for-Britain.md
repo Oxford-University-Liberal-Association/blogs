@@ -10,7 +10,9 @@ categories: ["HT25 - Freedom of the Press"]
 ---
 
 
-During every single day of the Trump administration, I will very simply put America first” declared the 45th and now 47th President, standing in the same Capitol rotunda that his supporters rampaged through four years ago. The President’s triumphant resurgence – winning the popular vote, all seven swing states, and a governing trifecta – represents a total usurpation of the former, liberal world order. Biden’s presidency will now be seen by history as an interlude, a brief intermission in the Trump story, not the grand liberal revival many hoped for in 2020.
+During every single day of the Trump administration, I will very simply put "America first” declared the 45th and now 47th President, standing in the same Capitol rotunda that his supporters rampaged through four years ago.
+<!--more--> 
+The President’s triumphant resurgence – winning the popular vote, all seven swing states, and a governing trifecta – represents a total usurpation of the former, liberal world order. Biden’s presidency will now be seen by history as an interlude, a brief intermission in the Trump story, not the grand liberal revival many hoped for in 2020.
 
 Free-trade, respect for international institutions and international law, the very building blocks of our modern international system, are on the out. In their place, a volatile and transactional politics led by a superpower in it only for their own interests. Interests defined not in the broad, magnanimous terms of late 20th century American foreign policy, but instead the grim, Bismarckian Realpolitik of power and territorial expansion. NATO now appears more an American protection racket than a grand alliance, international institutions seem more a talking-shop for petty grievances than serious organisations, trade an arena for exploitation and extraction rather than mutual benefit. 
 

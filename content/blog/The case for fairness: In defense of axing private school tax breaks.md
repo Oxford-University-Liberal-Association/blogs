@@ -8,7 +8,9 @@ society_role: "Member"
 tags: ["HT25"]
 categories: ["HT25 - Freedom of the Press"]
 ---
-On July 5th 2024, Labour took office with a mandate to apply Value Added Tax (VAT) at the standard rate of 20% on private school fees, and to revoke the charitable business rates relief currently enjoyed by England’s fee-paying schools . Since then, this policy has faced a more sustained and intense wave of opposition in the media than perhaps any other proposal in the party’s platform. Despite opinion polls indicating that the plan has garnered widespread public support, outlets like the Daily Mail continue to insist that a ‘class war’ is somehow being waged by the government.  
+On July 5th 2024, Labour took office with a mandate to apply Value Added Tax (VAT) at the standard rate of 20% on private school fees, and to revoke the charitable business rates relief currently enjoyed by England’s fee-paying schools.
+<!--more--> 
+Since then, this policy has faced a more sustained and intense wave of opposition in the media than perhaps any other proposal in the party’s platform. Despite opinion polls indicating that the plan has garnered widespread public support, outlets like the Daily Mail continue to insist that a ‘class war’ is somehow being waged by the government.  
 
 Some commentators have even argued that the government’s plan to axe the tax breaks afforded to private schools is driven by ‘envy and spite,’ yet this position seems wholly out of touch. The move is merely a pragmatic choice to direct further funds to state schools which have faced slashing cuts, with the Institute for Fiscal Studies estimating that it could raise £1.3-1.5 billion. Even Michael Gove, the former Conservative Education Secretary, argued in 2017 that this “egregious state support” should be scrapped to drive up funding for the 93% of students who attend state schools. Money which is desperately needed to repair crumbling classrooms, to tackle the teacher retention and recruitment crisis, and to close the widening attainment gap. 
 
