@@ -9,7 +9,9 @@ tags: ["MT25"]
 categories: ["MT25 - Freedom of the Press"]
 ---
 
-Welcome to Britain, where you already have to scan your face to access much of the internet, [facial recognition](https://news.sky.com/story/police-to-expand-use-of-live-facial-recognition-technology-amid-concern-from-campaigners-13404404) is rolled out on our streets, and soon your digital ID will be essential to access literally any public service. This great nation, once the flag-bearer of liberal ideals and rights, is sleepwalking into a digital dictatorship. 
+Welcome to Britain, where you already have to scan your face to access much of the internet, [facial recognition](https://news.sky.com/story/police-to-expand-use-of-live-facial-recognition-technology-amid-concern-from-campaigners-13404404) is rolled out on our streets, and soon your digital ID will be essential to access literally any public service.
+This great nation, once the flag-bearer of liberal ideals and rights, is sleepwalking into a digital dictatorship.
+<!--more--> 
 
 To say I am not surprised would be an understatement. Our Prime Minister is a man who has lied his way to the top - first with his progressive promises to the Labour membership that turned out to be totally false, and then pledges to the public at the General Election which he has abandoned in just one year. He has no ideology, and sometimes, it appears, no morals. The Labour Party has a fundamental disregard for civil liberties, and now they’re taking it to the extreme. 
 
