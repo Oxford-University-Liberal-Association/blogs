@@ -9,8 +9,6 @@ tags: ["MT25"]
 categories: ["MT25 - Freedom of the Press"]
 ---
 
-This article was originally for Liberal Democrat Voice. You can find the link [here](https://www.libdemvoice.org/labours-grubby-authoritarianism-is-on-full-display-78040.html)
-
 Welcome to Britain, where you already have to scan your face to access much of the internet, [facial recognition](https://news.sky.com/story/police-to-expand-use-of-live-facial-recognition-technology-amid-concern-from-campaigners-13404404) is rolled out on our streets, and soon your digital ID will be essential to access literally any public service.
 This great nation, once the flag-bearer of liberal ideals and rights, is sleepwalking into a digital dictatorship.
 <!--more--> 
@@ -27,6 +25,8 @@ I have absolutely no faith that this is actually about illegal migration. Even i
 
 I was proud to be a member of the Young Liberals over a week ago, when they put up a [principled response to the Online Safety Act](https://www.instagram.com/p/DMmvNhLILrv/?img_index=1), supported by student Lib Dem societies from across the country. It called out the restriction of certain content, such as protest footage, on the grounds of ‘online safety.’ When you couple this worrying crack down on freedom of expression with other authoritarian measures such as an expansion of facial recognition cameras, it seems that this Labour Party views freedom as an inconvenience to be trodden on, rather than a value. 
 
-We have to recognise that the internet is simply different to everything that has come before it. A quick ID check, with no permanent record, when you purchase alcohol for example, is substantially different to the mass data collection enabled by the Online Safety Act - or the ability of the Government to track my face wherever I go. I despair. 
+We have to recognise that the internet is simply different to everything that has come before it. A quick ID check, with no permanent record, when you purchase alcohol for example, is substantially different to the mass data collection enabled by the Online Safety Act - or the ability of the Government to track my face wherever I go. I despair.
 
 We are faced with an authoritarian Government, make no mistake. The question we must ask ourselves is simple - are we Liberals or not? Will we put up a fight that I hope future generations will thank us for, or will we simply acquiesce to Labour, and let them run our freedoms into the ground.
+
+This article was originally written for Liberal Democrat Voice. You can find the link [here](https://www.libdemvoice.org/labours-grubby-authoritarianism-is-on-full-display-78040.html)
