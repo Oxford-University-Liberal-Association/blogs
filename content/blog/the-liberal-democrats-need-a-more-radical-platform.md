@@ -10,6 +10,7 @@ categories: ["MT25 - Freedom of the Press"]
 ---
 
 Last Summer, the mood at party conference was jubilant. Record election success brought us 72 Members of Parliament and offered us a vast opportunity to shape national debate and grow our party further. 
+<!--more--> 
 
 Yet, in the year since the election, it is the rise of Reform UK which has dominated the political agenda – despite us outnumbering them in Parliament by a factor of 14. Meanwhile, our vote share has sat stagnant at the same level since 2019, even whilst the combined Tory-Labour vote share has declined from 75% to 55%. As dissatisfaction with the status quo escalates, our electoral platform has clearly lacked a sufficiently bold vision to represent a serious political alternative.
 
