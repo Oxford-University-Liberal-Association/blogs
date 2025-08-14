@@ -4,7 +4,7 @@ draft: false
 date: 2025-08-12
 author: "Will Lawson"
 college: "Mansfield College"
-society_role: "Senior Treasurer"
+society_role: "Ex-President"
 tags: ["MT25"]
 categories: ["MT25 - Freedom of the Press"]
 ---
