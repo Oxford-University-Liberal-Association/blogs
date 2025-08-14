@@ -4,7 +4,7 @@ draft: false
 date: 2025-08-05
 author: "Zagham Farhan"
 college: "University College"
-society_role: "Senior President"
+society_role: "Ex-President"
 tags: ["MT25"]
 categories: ["MT25 - Freedom of the Press"]
 ---
