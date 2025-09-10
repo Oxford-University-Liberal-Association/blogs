@@ -1,0 +1,24 @@
+---
+title: "Brexit: What Did We Lose as Students"
+draft: false
+date: 2025-09-10
+author: "Harry Morgan"
+college: "Pembroke College"
+society_role: "President-Elect"
+tags: ["MT25"]
+categories: ["MT25 - Freedom of the Press"]
+---
+
+Like any good Lib Dem, I have spent the summer pondering the question of what we as students and young people have lost since leaving the EU. 
+
+The question was presented to me as I travelled to Europe, and was hit by paywalls while entering some of the continents cultural attractions. I started off in Paris, and when approaching the Hotel des Invalides, in an attempt to see the tomb of Napoleon, I was met with an admissions condition that young people under 25 from the EU went free, and that other young people had to be under 18 for the privilege. After considering pretending to be Irish to attempt to avoid the fee, my better nature took hold and I felt compelled to pay the charge imposed on me by that 2016 referendum, the result of which I, along with all other under-25-year-olds in the UK had no say. This continued as I then found myself paying to go into the Palace of Versailles, and so frustrated was I by this unnecessary charge that I duly threw up in the Palace (granted it may also have had something to do with the food poisoning I was suffering with at the time). I now find myself in Crete, having again been confronted with the same condition to enter the Minoan temple of Knossos. Much like the Ashmolean Museum’s Sir Arthur Evans’s imposing archaeological theories about that site, I feel as though politicians have imposed a barrier to culture in Europe that no one ever talked about in 2016. 
+
+In fact, politicians told us that we would never have left Erasmus, which includes the EU scheme whereby students can study in Europe on an exchange programme. [200,000 British students had taken up the opportunity since 1987]( https://fullfact.org/europe/british-students-and-eu/). We were left with a botched settlement from the Tories dubbed the ‘Turing Scheme’, leaving British students frozen out of their pre-Brexit advantages. Re-entry has since been renegotiated, but we currently remain outside of the so-called Erasmus plus scheme. 
+
+Particularly significant from a Lib Dem perspective is matter of a Young Mobility scheme. In recent years, this has been one of the most consistent policies of the party, as they have pointed out that since Brexit, young people have lost rights to live and work in Europe. We used to have the freedom to count ourselves Europeans and not just because we happened to be geographically positioned nearer to Europe than any other continent, but because we could live and engage in the culture of our neighbours. This meant we could learn skills, languages and cultures to bring back to the UK economy. It conversely also allowed European young people to live in the UK for a few years, filling vacancies in our hospitality sector and other jobs Brits neglected to take up. Such schemes exist for some of our Commonwealth allies, like New Zealand, Australia and Canada, as well as Japan. 
+
+The European Union even made it clear that such a scheme was on the table, but the Tories said no because it threatened their tough migration stance and risked bringing back freedom of movement by stealth. This, from the same government that presided over the ‘Boriswave’ in legal migration. It was a government that operated in rhetoric on migration and not delivery. Let’s be clear that such a scheme would have limits and would be clearly controlled: no loopholes, no repeat of the ‘Boriswave.’ It is us as young people that lose out. And by the way, the Labour government then seemed to reject a Youth Mobility scheme for the same reason.
+
+All this until January this year, when [Lib Dem MP James MacCleary brought a ten-minute Private Members Bill to the Commons]( https://hansard.parliament.uk/commons/2025-01-15/debates/01B00D85-0674-404D-BD7C-4D38D0C97E13/YouthMobilityScheme(EUCountries)) proposing we negotiate a Youth Mobility Scheme with the EU.  He said that “opportunity and hope for the future have rarely been in such short supply in this county,” so “this is how we can provide some of both.” After years of campaigning, it is the Lib Dem’s that are sponsoring a bill through Parliament, and with Labour chasing young voters (especially now with the risk that Corbyn and Sultana’s ‘Your Party’ poses), it surely cannot block the bill. 
+
+Is it any wonder [recent polling by YouGov]( https://www.instagram.com/p/DNYNUWFIHk2/?igsh=MWVma3UwMDhlMjk5eQ==) put the Lib Dem’s as the party of choice amongst 18–24-year-olds, at 25%. Let us not forget it was the Lib Dem’s that have championed giving 16- and 17-year-olds a vote for over 20 years. It is the Lib Dem’s that represent the interest of young people. And if you want to have a holiday and explore some of Europe’s cultural sights whilst you do it, remember why it is that you must pay for the privilege.
