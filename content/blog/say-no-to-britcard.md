@@ -1,5 +1,5 @@
 ---
-title: "Say No to BritCard and State Surveillence"
+title: "Say No to BritCard and State Surveillance"
 draft: false
 date: 2025-09-27
 author: "Robert Turner"
