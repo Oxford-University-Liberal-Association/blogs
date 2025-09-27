@@ -1,6 +1,6 @@
 ---
-title: "Say No to BritCard and State Compulsion"
-draft: true
+title: "Say No to BritCard and State Surveillence"
+draft: false
 date: 2025-09-27
 author: "Robert Turner"
 college: "The Queen’s College"
