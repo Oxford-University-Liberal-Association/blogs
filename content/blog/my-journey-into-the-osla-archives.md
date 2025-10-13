@@ -1,6 +1,6 @@
 ---
 title: "My Journey into the OSLA Archives"
-draft: true
+draft: false
 date: 2025-10-13
 author: "Harry Morgan"
 college: "Pembroke College"
