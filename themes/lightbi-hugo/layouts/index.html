@@ -32,14 +32,14 @@
 
   <!-- Pagination Section -->
   <div class="row font-sans justify-content-center">
-    <div class="col-md-10 mt-4">
-      <nav aria-label="Page navigation">
-        <div class="pagination justify-content-center">
-          {{ template "_internal/pagination.html" $pag }}
-        </div>
-      </nav>
-    </div>
+  <div class="col-md-10 mt-4">
+    <nav aria-label="Page navigation">
+      <div class="pagination justify-content-center">
+        {{ template "_internal/pagination.html" . }}
+      </div>
+    </nav>
   </div>
+</div>
 </div>
 
 {{ end }}
