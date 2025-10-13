@@ -7,7 +7,7 @@ relativeURLs = true
 [params]
   customCSS = ["css/custom.css"]
   lunrSearch = true
-  mainSections = ["content/blogs","blogs"]
+  mainSections = ["blog"]
 
 [Params.Author]
     name = "The Oxford Students Liberal Association (OSLA) - Liberal Since 1913"
