@@ -79,9 +79,9 @@
 
 # Search
 - id: noSearchResults
-  translation: "No results found for “{{ .Term }}”"
+  translation: "☹️ Oh no! We couldn't find anything for "{{ .Term }}". Try searching for something else!"
 
 - id: someSearchResults
   translation:
-    one: "Found one result for “{{ .Term }}”"
-    other: "Found {{ .Count }} results for “{{ .Term }}”"
+    one: "Found one result for "{{ .Term }}""
+    other: "Found {{ .Count }} results for "{{ .Term }}""

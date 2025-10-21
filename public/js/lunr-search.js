@@ -85,17 +85,20 @@ window.addEventListener("DOMContentLoaded", function(indexUrl) {
           this.use(lunr[language]);
         }
 
-        this.ref("uri");
+        this.ref("href");
         this.field("title");
         this.field("subtitle");
         this.field("content");
         this.field("description");
         this.field("categories");
         this.field("tags");
+        this.field("author");
+        this.field("college");
+        this.field("society_role");
 
         for (let document of documents) {
           this.add(document);
-          lookup[document.uri] = document;
+          lookup[document.href] = document;
         }
       });
 
@@ -142,7 +145,7 @@ window.addEventListener("DOMContentLoaded", function(indexUrl) {
           let doc = lookup[result.ref];
 
           let element = template.content.cloneNode(true);
-          element.querySelector(".summary-title-link").href = element.querySelector(".read-more-link").href = doc.uri;
+          element.querySelector(".summary-title-link").href = element.querySelector(".read-more-link").href = doc.href;
           element.querySelector(".summary-title-link").textContent = doc.title;
           element.querySelector(".post-entry").textContent = truncateToEndOfSentence(doc.content, 70);
           target.appendChild(element);
