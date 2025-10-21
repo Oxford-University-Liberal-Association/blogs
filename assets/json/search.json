@@ -1,0 +1,30 @@
+[
+  {{- range $index, $page := .Site.RegularPages -}}
+    {{- if gt $index 0 -}}
+        ,
+    {{- end -}}
+    {{- $entry := dict "uri" $page.RelPermalink "title" $page.Title "content" ($page.Plain | htmlUnescape) -}}
+    {{- if $page.Params.subtitle -}}
+        {{- $entry = merge $entry (dict "subtitle" $page.Params.subtitle) -}}
+    {{- end -}}
+    {{- if $page.Params.description -}}
+      {{- $entry = merge $entry (dict "description" $page.Params.description) -}}
+    {{- end -}}
+    {{- if $page.Params.categories -}}
+      {{- $entry = merge $entry (dict "categories" $page.Params.categories) -}}
+    {{- end -}}
+    {{- if $page.Params.tags -}}
+      {{- $entry = merge $entry (dict "tags" $page.Params.tags) -}}
+    {{- end -}}
+    {{- if $page.Params.author -}}
+      {{- $entry = merge $entry (dict "author" $page.Params.author) -}}
+    {{- end -}}
+    {{- if $page.Params.college -}}
+      {{- $entry = merge $entry (dict "college" $page.Params.college) -}}
+    {{- end -}}
+    {{- if $page.Params.society_role -}}
+      {{- $entry = merge $entry (dict "society_role" $page.Params.society_role) -}}
+    {{- end -}}
+    {{- $entry | jsonify -}}
+  {{- end -}}
+]
