@@ -1,1 +1,7 @@
 <!-- Custom head content -->
+
+{{- if .Site.Params.cloudflareAnalyticsToken -}}
+<!-- Cloudflare Web Analytics -->
+<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "{{ .Site.Params.cloudflareAnalyticsToken }}"}'></script>
+<!-- End Cloudflare Web Analytics -->
+{{- end -}}

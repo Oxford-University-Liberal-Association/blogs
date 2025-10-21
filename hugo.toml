@@ -8,6 +8,9 @@ relativeURLs = true
   customCSS = ["css/custom.css"]
   lunrSearch = true
   mainSections = ["blog"]
+  # Cloudflare Web Analytics - privacy-friendly, non-intrusive tracking
+  # Get your token from: https://dash.cloudflare.com/?to=/:account/analytics/web-analytics
+  cloudflareAnalyticsToken = ""
 
 [Params.Author]
     name = "The Oxford Students Liberal Association (OSLA) - Liberal Since 1913"
