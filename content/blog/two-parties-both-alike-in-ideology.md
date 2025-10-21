@@ -1,5 +1,5 @@
 ---
-title: "Two Parties, Both Alike in Ideology: Why Moderate Conservatism and Social Democracy are so Similar"
+title: "Two Parties, Both Alike in Ideology: Why Moderate Conservatism and Social Democracy are so similar"
 draft: false
 date: 2025-10-21
 author: "Robert Turner"
