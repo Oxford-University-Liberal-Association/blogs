@@ -9,11 +9,6 @@ relativeURLs = true
   lunrSearch = true
   mainSections = ["blog"]
 
-  # Cloudflare Web Analytics - Simple, privacy-friendly, non-intrusive
-  # Get your token from: https://dash.cloudflare.com/?to=/:account/web-analytics
-  # Replace with your actual Cloudflare Analytics token
-  cloudflareAnalyticsToken = "YOUR_CLOUDFLARE_TOKEN_HERE"
-
 [Params.Author]
     name = "The Oxford Students Liberal Association (OSLA) - Liberal Since 1913"
     website = "https://www.oxuniliberals.com/"
