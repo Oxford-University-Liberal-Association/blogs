@@ -4,10 +4,19 @@ title = 'OSLA - Blog'
 theme = 'lightbi-hugo'
 relativeURLs = true
 
+# Google Analytics 4
+# Replace with your actual GA4 Measurement ID (format: G-XXXXXXXXXX)
+googleAnalytics = "G-XXXXXXXXXX"
+
 [params]
   customCSS = ["css/custom.css"]
   lunrSearch = true
   mainSections = ["blog"]
+
+  # Analytics settings
+  enableAnalytics = true
+  trackSearchQueries = true
+  trackPageViews = true
 
 [Params.Author]
     name = "The Oxford Students Liberal Association (OSLA) - Liberal Since 1913"
@@ -28,6 +37,11 @@ relativeURLs = true
     name = "Term tags"
     url = "/tags/"
     weight = 3
+
+[[menu.main]]
+    name = "Analytics"
+    url = "/analytics/"
+    weight = 40
 
 [sitemap]
   changefreq = "weekly"
