@@ -79,7 +79,7 @@
 
 # Search
 - id: noSearchResults
-  translation: '☹️ Oh no! We couldn''t find anything for "{{ .Term }}". Try searching for something else!'
+  translation: '🗽 In the spirit of free inquiry, no articles found for "{{ .Term }}" - but the liberal marketplace of ideas encourages you to keep searching!'
 
 - id: someSearchResults
   translation:
