@@ -4,7 +4,7 @@ title = 'OSLA - Blog'
 theme = 'lightbi-hugo'
 relativeURLs = true
 
-[params]
+[Params]
   customCSS = ["css/custom.css"]
   lunrSearch = true
   mainSections = ["blog"]
@@ -33,11 +33,6 @@ relativeURLs = true
     name = "Term tags"
     url = "/tags/"
     weight = 3
-
-[[menu.main]]
-    name = "Analytics"
-    url = "/analytics/"
-    weight = 40
 
 [sitemap]
   changefreq = "weekly"

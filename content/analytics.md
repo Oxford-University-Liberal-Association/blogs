@@ -5,13 +5,28 @@ draft: false
 
 <div id="analytics-dashboard">
   <div class="container">
-    <h1>Blog Analytics Dashboard</h1>
+    <h1>OSLA Blog Analytics</h1>
+
+    <div class="alert alert-warning mt-4">
+      <strong>Note:</strong> This page is not linked in the navigation menu. Only share the URL with authorized editors.
+      <br>Access: <code>https://blog.oxuniliberals.com/analytics/</code>
+    </div>
 
     <div class="alert alert-info mt-4">
-      <h5>Cloudflare Web Analytics</h5>
-      <p>For comprehensive site-wide analytics, visit <a href="https://dash.cloudflare.com/" target="_blank" rel="noopener">Cloudflare Dashboard → Web Analytics</a>.</p>
-      <p><small>Note: Cloudflare Analytics is privacy-friendly and doesn't use cookies or track personal data.</small></p>
+      <h5>📊 Cloudflare Web Analytics Dashboard</h5>
+      <p>View comprehensive site-wide analytics for all visitors:</p>
+      <ol>
+        <li>Go to <a href="https://dash.cloudflare.com/" target="_blank" rel="noopener"><strong>Cloudflare Dashboard</strong></a></li>
+        <li>Click <strong>"Web Analytics"</strong> in the left sidebar</li>
+        <li>Select <strong>"blog.oxuniliberals.com"</strong></li>
+      </ol>
+      <p class="mb-0"><strong>Cloudflare shows:</strong> Page views, unique visitors, popular pages, traffic sources, countries, browsers, and more.</p>
     </div>
+
+    <hr class="my-5">
+
+    <h2>Local Browser Stats</h2>
+    <p class="text-muted">The data below is stored only in <strong>your browser</strong> and shows your personal browsing activity on this blog.</p>
 
     <div class="row mt-4">
       <div class="col-md-6">
@@ -69,16 +84,30 @@ draft: false
       </div>
     </div>
 
-    <div class="alert alert-warning mt-4">
-      <strong>Privacy Note:</strong> The statistics shown above are stored only in your browser's localStorage and reflect only your own activity.
-      No personal data is collected or sent anywhere. For site-wide analytics across all visitors, the blog administrator can view Cloudflare Web Analytics.
-    </div>
-
     <div class="mt-4">
-      <h3>Clear Your Data</h3>
+      <h3>Clear Your Local Data</h3>
       <p>Want to clear your local browsing history from this dashboard?</p>
       <button id="clear-data-btn" class="btn btn-danger">Clear All Local Data</button>
       <div id="clear-message" class="mt-2"></div>
+    </div>
+
+    <hr class="my-5">
+
+    <div class="card">
+      <div class="card-header">
+        <h5 class="card-title mb-0">🔒 Password Protection (Optional)</h5>
+      </div>
+      <div class="card-body">
+        <p>To add password protection to this analytics page:</p>
+        <ol>
+          <li>Go to Netlify Dashboard → Site Settings → Visitor Access</li>
+          <li>Under "Protected pages", add a rule:
+            <pre class="mt-2"><code>/analytics/*  requires password</code></pre>
+          </li>
+          <li>Set a password for authorized editors</li>
+        </ol>
+        <p class="mb-0 text-muted"><small>Note: This requires a Netlify Pro plan. Alternatively, keep this page unlisted (not in menu) for basic security.</small></p>
+      </div>
     </div>
   </div>
 </div>
