@@ -3,7 +3,7 @@
     {{- if gt $index 0 -}}
         ,
     {{- end -}}
-    {{- $entry := dict "uri" $page.RelPermalink "title" $page.Title "content" ($page.Plain | htmlUnescape) -}}
+    {{- $entry := dict "href" $page.Permalink "title" $page.Title "content" ($page.Plain | htmlUnescape) "author" $page.Params.author "college" $page.Params.college "society_role" $page.Params.society_role -}}
     {{- if $page.Params.subtitle -}}
         {{- $entry = merge $entry (dict "subtitle" $page.Params.subtitle) -}}
     {{- end -}}
