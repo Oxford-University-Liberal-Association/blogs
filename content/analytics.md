@@ -8,21 +8,21 @@ draft: false
     <h1>Blog Analytics Dashboard</h1>
 
     <div class="alert alert-info mt-4">
-      <h5>Google Analytics</h5>
-      <p>For comprehensive analytics data, visit the <a href="https://analytics.google.com/" target="_blank" rel="noopener">Google Analytics Dashboard</a>.</p>
-      <p><small>Note: You'll need to be logged in to your Google account with access to this property.</small></p>
+      <h5>Cloudflare Web Analytics</h5>
+      <p>For comprehensive site-wide analytics, visit <a href="https://dash.cloudflare.com/" target="_blank" rel="noopener">Cloudflare Dashboard → Web Analytics</a>.</p>
+      <p><small>Note: Cloudflare Analytics is privacy-friendly and doesn't use cookies or track personal data.</small></p>
     </div>
 
     <div class="row mt-4">
       <div class="col-md-6">
         <div class="card mb-4">
           <div class="card-header">
-            <h5 class="card-title mb-0">Most Viewed Pages (Local)</h5>
+            <h5 class="card-title mb-0">Your Most Viewed Pages</h5>
           </div>
           <div class="card-body">
-            <p class="text-muted small">Based on your local browser history</p>
+            <p class="text-muted small">Based on your personal browsing history (stored in your browser)</p>
             <ul id="popular-pages" class="list-group list-group-flush">
-              <li class="list-group-item">No data available yet</li>
+              <li class="list-group-item">No data available yet. Browse some articles to see them appear here!</li>
             </ul>
           </div>
         </div>
@@ -31,12 +31,12 @@ draft: false
       <div class="col-md-6">
         <div class="card mb-4">
           <div class="card-header">
-            <h5 class="card-title mb-0">Recent Searches (Local)</h5>
+            <h5 class="card-title mb-0">Your Recent Searches</h5>
           </div>
           <div class="card-body">
-            <p class="text-muted small">Based on your local browser history</p>
+            <p class="text-muted small">Based on your personal search history (stored in your browser)</p>
             <ul id="recent-searches" class="list-group list-group-flush">
-              <li class="list-group-item">No data available yet</li>
+              <li class="list-group-item">No searches yet. Try using the search box in the navigation!</li>
             </ul>
           </div>
         </div>
@@ -47,53 +47,21 @@ draft: false
       <div class="col-12">
         <div class="card">
           <div class="card-header">
-            <h5 class="card-title mb-0">Email Reports</h5>
-          </div>
-          <div class="card-body">
-            <p>Configure weekly email reports with analytics summaries:</p>
-            <form id="email-report-form">
-              <div class="mb-3">
-                <label for="email" class="form-label">Email Address</label>
-                <input type="email" class="form-control" id="email" placeholder="your@email.com" required>
-              </div>
-              <div class="mb-3">
-                <label for="frequency" class="form-label">Frequency</label>
-                <select class="form-select" id="frequency">
-                  <option value="weekly">Weekly</option>
-                  <option value="monthly">Monthly</option>
-                </select>
-              </div>
-              <button type="submit" class="btn btn-primary">Subscribe to Reports</button>
-            </form>
-            <div id="subscription-message" class="mt-3"></div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="row mt-4">
-      <div class="col-12">
-        <div class="card">
-          <div class="card-header">
-            <h5 class="card-title mb-0">Quick Stats</h5>
+            <h5 class="card-title mb-0">Your Quick Stats</h5>
           </div>
           <div class="card-body">
             <div class="row text-center">
-              <div class="col-md-3">
+              <div class="col-md-4">
                 <h3 id="total-views">-</h3>
-                <p class="text-muted">Total Views (Local)</p>
+                <p class="text-muted">Total Views (Your Browser)</p>
               </div>
-              <div class="col-md-3">
+              <div class="col-md-4">
                 <h3 id="total-searches">-</h3>
-                <p class="text-muted">Total Searches (Local)</p>
+                <p class="text-muted">Total Searches (Your Browser)</p>
               </div>
-              <div class="col-md-3">
+              <div class="col-md-4">
                 <h3 id="unique-pages">-</h3>
                 <p class="text-muted">Unique Pages Viewed</p>
-              </div>
-              <div class="col-md-3">
-                <h3 id="last-visit">-</h3>
-                <p class="text-muted">Last Visit</p>
               </div>
             </div>
           </div>
@@ -102,8 +70,15 @@ draft: false
     </div>
 
     <div class="alert alert-warning mt-4">
-      <strong>Note:</strong> The local statistics shown above are stored in your browser's localStorage and only reflect your own activity.
-      For site-wide analytics across all visitors, please use Google Analytics.
+      <strong>Privacy Note:</strong> The statistics shown above are stored only in your browser's localStorage and reflect only your own activity.
+      No personal data is collected or sent anywhere. For site-wide analytics across all visitors, the blog administrator can view Cloudflare Web Analytics.
+    </div>
+
+    <div class="mt-4">
+      <h3>Clear Your Data</h3>
+      <p>Want to clear your local browsing history from this dashboard?</p>
+      <button id="clear-data-btn" class="btn btn-danger">Clear All Local Data</button>
+      <div id="clear-message" class="mt-2"></div>
     </div>
   </div>
 </div>
@@ -124,7 +99,7 @@ draft: false
 
       const listElement = document.getElementById('popular-pages');
       if (pages.length === 0) {
-        listElement.innerHTML = '<li class="list-group-item">No data available yet</li>';
+        listElement.innerHTML = '<li class="list-group-item">No data available yet. Browse some articles to see them appear here!</li>';
         return;
       }
 
@@ -139,11 +114,6 @@ draft: false
       const totalViews = pages.reduce((sum, page) => sum + page.views, 0);
       document.getElementById('total-views').textContent = totalViews;
       document.getElementById('unique-pages').textContent = pages.length;
-
-      if (pages.length > 0 && pages[0].lastVisit) {
-        const lastVisit = new Date(pages[0].lastVisit);
-        document.getElementById('last-visit').textContent = lastVisit.toLocaleDateString();
-      }
     } catch (e) {
       console.error('Failed to load popular pages:', e);
     }
@@ -157,7 +127,7 @@ draft: false
 
       const listElement = document.getElementById('recent-searches');
       if (recentSearches.length === 0) {
-        listElement.innerHTML = '<li class="list-group-item">No data available yet</li>';
+        listElement.innerHTML = '<li class="list-group-item">No searches yet. Try using the search box in the navigation!</li>';
         return;
       }
 
@@ -167,7 +137,6 @@ draft: false
           <li class="list-group-item">
             <div class="d-flex justify-content-between align-items-center">
               <span><strong>${search.query}</strong></span>
-              <span class="badge bg-secondary">${search.results} results</span>
             </div>
             <small class="text-muted">${date.toLocaleString()}</small>
           </li>
@@ -181,34 +150,23 @@ draft: false
     }
   }
 
-  // Handle email subscription form
-  function setupEmailForm() {
-    const form = document.getElementById('email-report-form');
-    const messageDiv = document.getElementById('subscription-message');
+  // Clear all local data
+  function setupClearButton() {
+    const clearBtn = document.getElementById('clear-data-btn');
+    const messageDiv = document.getElementById('clear-message');
 
-    form.addEventListener('submit', async function(e) {
-      e.preventDefault();
+    clearBtn.addEventListener('click', function() {
+      if (confirm('Are you sure you want to clear all your local analytics data? This cannot be undone.')) {
+        localStorage.removeItem('osla_page_views');
+        localStorage.removeItem('osla_search_history');
 
-      const email = document.getElementById('email').value;
-      const frequency = document.getElementById('frequency').value;
+        messageDiv.innerHTML = '<div class="alert alert-success">All local data cleared successfully!</div>';
 
-      try {
-        const response = await fetch('/.netlify/functions/subscribe-analytics', {
-          method: 'POST',
-          headers: {
-            'Content-Type': 'application/json',
-          },
-          body: JSON.stringify({ email, frequency })
-        });
-
-        if (response.ok) {
-          messageDiv.innerHTML = '<div class="alert alert-success">Successfully subscribed to analytics reports!</div>';
-          form.reset();
-        } else {
-          throw new Error('Subscription failed');
-        }
-      } catch (error) {
-        messageDiv.innerHTML = '<div class="alert alert-danger">Failed to subscribe. Please ensure Netlify Functions are configured.</div>';
+        // Reload the dashboard
+        setTimeout(function() {
+          loadPopularPages();
+          loadRecentSearches();
+        }, 500);
       }
     });
   }
@@ -217,7 +175,7 @@ draft: false
   function init() {
     loadPopularPages();
     loadRecentSearches();
-    setupEmailForm();
+    setupClearButton();
   }
 
   // Run on DOM ready

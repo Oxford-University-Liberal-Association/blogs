@@ -4,19 +4,15 @@ title = 'OSLA - Blog'
 theme = 'lightbi-hugo'
 relativeURLs = true
 
-# Google Analytics 4
-# Replace with your actual GA4 Measurement ID (format: G-XXXXXXXXXX)
-googleAnalytics = "G-XXXXXXXXXX"
-
 [params]
   customCSS = ["css/custom.css"]
   lunrSearch = true
   mainSections = ["blog"]
 
-  # Analytics settings
-  enableAnalytics = true
-  trackSearchQueries = true
-  trackPageViews = true
+  # Cloudflare Web Analytics - Simple, privacy-friendly, non-intrusive
+  # Get your token from: https://dash.cloudflare.com/?to=/:account/web-analytics
+  # Replace with your actual Cloudflare Analytics token
+  cloudflareAnalyticsToken = "YOUR_CLOUDFLARE_TOKEN_HERE"
 
 [Params.Author]
     name = "The Oxford Students Liberal Association (OSLA) - Liberal Since 1913"

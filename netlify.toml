@@ -4,16 +4,3 @@
 
 [build.environment]
   HUGO_VERSION = "0.128.0"
-
-# Netlify Functions configuration
-[functions]
-  directory = "netlify/functions"
-
-# Scheduled function for weekly analytics reports
-# Runs every Monday at 9 AM UTC
-[[plugins]]
-  package = "@netlify/plugin-scheduled-functions"
-
-  [plugins.inputs]
-    [plugins.inputs.send-analytics-report]
-      schedule = "0 9 * * 1"
