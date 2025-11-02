@@ -10,7 +10,7 @@ categories: ["MT25 - Freedom of the Press"]
 ---
 
 People often ask me over coffee or at events what the Liberal Democrats plan to do in office. My honest answer is simple: I do not know.
-
+<!--more-->
 At first glance, admitting that might seem politically reckless, the kind of confession that invites mockery. Yet in an age of over-certainty, the Lib Dems’ refusal to offer a detailed blueprint could be their most effective move. It suggests a party that is pragmatic, adaptable, and open to influence rather than rigidly ideological.
 
 Few other parties could take this approach. Labour, being in government, must have a clear plan. You cannot speak of an island of strangers one moment and then condemn racism the next, unaware of how that language recalls Enoch Powell’s Rivers of Blood speech, a tone even the Conservatives once disowned. This highlights how the expectation of possessing a rigid ideological narrative can trap a party into positions which are easily criticised. Whereas the flexibility of the Lib Dems permits responses to issues without being bound by past statements.
