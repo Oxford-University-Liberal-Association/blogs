@@ -1,0 +1,37 @@
+/* Custom Styles */
+
+/* EB Garamond Font - Main font for the entire website */
+body {
+  font-family: 'EB Garamond', serif;
+}
+
+/* Apply EB Garamond to headings */
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+  font-family: 'EB Garamond', serif;
+}
+
+/* Apply to navigation elements */
+.navbar-custom .nav li a,
+.navbar-custom .navbar-brand {
+  font-family: 'EB Garamond', serif;
+}
+
+/* Apply to post and page content */
+.post-preview .post-title,
+.post-preview .post-subtitle,
+.post-entry,
+.blog-post,
+p, li, a, span {
+  font-family: 'EB Garamond', serif;
+}
+
+/* Apply to footer */
+footer {
+  font-family: 'EB Garamond', serif;
+}
+
+/* Ensure buttons and form elements use the font */
+button, input, select, textarea {
+  font-family: 'EB Garamond', serif;
+}
