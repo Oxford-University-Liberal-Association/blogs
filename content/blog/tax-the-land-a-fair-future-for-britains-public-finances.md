@@ -10,7 +10,7 @@ categories: ["MT25 - Freedom of the Press"]
 ---
 
 We keep being told that we lack the funds to do anything ambitious with our country’s future. Boris Johnson failed to deliver on ‘levelling up’. Rishi Sunak cancelled HS2. And now the Labour frontbenches tow the same line.
-
+<!--more--> 
 Both parties insist that the other are irresponsible with taxpayer money, while demonstrated no competency of their own. Nor do [Reform’s proposals for over £100 billion in tax cuts](https://www.theguardian.com/politics/article/2024/jun/17/farage-unveils-reform-uks-140bn-pledges-that-economists-say-do-not-add-up) seem to add up. And with the deficit ballooning out of control, it is thus hard to imagine the alleviation of this quite frankly dire situation regarding the public finances anytime soon.
 
 One proposal, courtesy of the left, is a property tax. This would be a large enough revenue stream for the government to pursue vital investment in infrastructure, public services, and the green transition, though not without consequence. Taxing homeowners would be a courageous stance to take for a government already so unpopular with the British public, and a property tax could be the very deterrent for investors this Labour government is so keen to avoid. It seems, therefore, that we can do any two of public investment, creating business friendly conditions, and balancing the books. But not all three at the same time. If only there were another way. A different means of taxation with many of the same advantages of a property tax, but without as much baggage.
