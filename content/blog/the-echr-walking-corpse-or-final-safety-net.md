@@ -10,7 +10,7 @@ categories: ["MT25 - Freedom of the Press"]
 ---
 
 In my spare time, like many others, I watch some YouTube. As I peruse my captivating collection of rugby compilations and TLDR news, I spot a report of Kemi Badenoch speaking at a half-empty convention centre. Declaring that the Conservative party would [leave the European Convention of Human Rights](https://www.youtube.com/live/xhA8ZChkfds?si=9cd8wOvu-WPkRT60) if they won the next election.
-
+<!--more--> 
 Throughout her speech, she emphasised the need to “protect our borders, our veterans, and our citizens”. I was in disbelief at how this bold, original move once again aligns them with the Reform party. Moreover, this declaration piqued my interest. Why is such an organisation that is usually only known to those of us who did politics for A-level, pushed into the forefront of the battle that is our attention spans?
 
 The quick answer to this question is illegal immigration and ease of deportation. However, as is usually the case, the long answer has multiple aspects as well as showing some of the worrying positions it could place ourselves in.
