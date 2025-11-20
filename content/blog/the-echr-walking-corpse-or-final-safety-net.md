@@ -3,7 +3,7 @@ title: "The ECHR: Walking Corpse or Final Safety Net?"
 draft: false
 date: 2025-11-20
 author: "Thomas Dorey"
-college: "Oxford Brookes"
+college: "N/a (Oxford Brookes University)"
 society_role: "Director of Communications"
 tags: ["MT25"]
 categories: ["MT25 - Freedom of the Press"]
