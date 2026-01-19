@@ -4,7 +4,7 @@ draft: false
 date: 2026-01-19
 author: "Robert Turner"
 college: "The Queen’s College"
-society_role: “Secretary"
+society_role: "Secretary"
 tags: ["HT26"]
 categories: ["HT26 - Freedom of the Press"]
 ---
