@@ -1,12 +1,12 @@
 ---
-title: “What was and is liberalism?”
+title: "What was and is liberalism?"
 draft: false
 date: 2026-01-19
-author: “Robert Turner”
-college: “The Queen’s College”
-society_role: “Secretary”
-tags: [“HT26”]
-categories: [“HT26 - Freedom of the Press”]
+author: "Robert Turner"
+college: "The Queen’s College"
+society_role: “Secretary"
+tags: ["HT26"]
+categories: ["HT26 - Freedom of the Press"]
 ---
 
 For a society whose sole ideological commitment is to liberalism and is affiliated with a liberal political party, I must say that we spend far less time that we ought to on articulating what this particular term actually means in practice.
