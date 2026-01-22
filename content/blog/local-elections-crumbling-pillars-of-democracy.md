@@ -19,7 +19,8 @@ In fairness to the Labour government, their default position has been for the el
  
 There are some genuine concerns about holding elections this May. They would be a drain on finances when money needs to be spent on restructuring local government, and any councillors elected this year would not have full terms of office before power transfers to new authorities. Nonetheless, elections are markers in the sand; their convenience is immaterial. They are essential, regardless of the financial burden. Granted, local elections were delayed by a year during the COVID-19 pandemic, but that was out of necessity – there was a public emergency. No such obstacle exists in the case of the May elections: it is a political choice and a dangerous one. Could a lot of this not be avoided by synchronising the shift to new local authorities with the current timetable of elections?
 
-Worse still, if there were delays to the restructuring of government, we would be on a slippery slope with little way back. Although it might seem practical in the short term, saving costs and conserving time and resources for the overhaul of devolution, it would set a troubling precedent for the future of elections in the UK.
+Worse still, if there were delays to the restructuring of government, we would be on a slippery slope with little way back. Although it might seem practical in the short term, saving costs and conserving time and resources for the overhaul of devolution, delaying elections would set a troubling precedent for the future of elections in the UK.
  
 At a time when democracy feels increasingly under threat, it would be a grave mistake to make.
+
 
