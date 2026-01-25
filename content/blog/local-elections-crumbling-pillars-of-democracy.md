@@ -17,7 +17,7 @@ The Liberal Democrats’ stance is that local elections remain imperative, despi
 
 ![Oxford City Council](https://upload.wikimedia.org/wikipedia/commons/c/cb/Oxford_City_Council_-_geograph.org.uk_-_5561675.jpg)
 
-*Oxford City Council* by N Chadwick - CC BY-SA 2.0 - Wikimedia Commons
+***Oxford City Council* by N Chadwick - CC BY-SA 2.0 - Wikimedia Commons**
 
 In fairness to the Labour government, their default position has been for the elections to go ahead. [This January, Oxford City Council was ambiguous about whether it wanted to postpone the elections, but the Labour government hasn’t strongarmed the council into doing so]
 (https://assets.publishing.service.gov.uk/media/696e1a4f091f0cc41e81a24b/Letter_to_leader_of_Oxford_City_Council.pdf). The practicalities of holding elections have been the main focus – rather than party politics. This isn’t a dodgy deal or a political cabal.
@@ -27,6 +27,7 @@ There are some genuine concerns about holding elections this May. They would be 
 Worse still, if there were delays to the restructuring of government, we would be on a slippery slope with little way back. Although it might seem practical in the short term, saving costs and conserving time and resources for the overhaul of devolution, delaying elections would set a troubling precedent for the future of elections in the UK.
  
 At a time when democracy feels increasingly under threat, it would be a grave mistake to make.
+
 
 
 
