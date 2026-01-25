@@ -24,7 +24,8 @@ Just from the name, it is evident that liberalism has a close connection to the 
 Such natural rights theories dominated liberal thought during 17th and 18th centuries. In his [Two Treatise on Government]( https://www.yorku.ca/comninel/courses/3025pdf/Locke.pdf), John Locke laid out an early articulation of rights and liberties which encompassed exactly this. Though not a self-identified liberal, and known mostly for his contributions to empiricist epistemology by academia until recent decades, Locke’s political philosophy has retroactively been situated as a genesis of sorts for liberal thought. While anachronistic, such a designation proves useful as Locke popularised several ideas which went on to shape classical liberalism.
 
 ![John Locke](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/JohnLocke.png/960px-JohnLocke.png)
-**John Locke - considered a pre-eminent liberal thinker | Image source: Wikimedia Commons**
+
+**John Locke - considered a pre-eminent liberal thinker | Image source: public domain, via Wikimedia Commons**
 
 From Locke, liberalism inherited a conception of rights and government by consent of the people. His second treatise articulated that every individual, “has a property in his own person,” and thus cannot be, “subjected to the political power of another, without his own consent”. Political philosophy would later develop this notion into the theory of self-ownership. The state, according to Locke, emerged by free agreement from the state of nature for the purpose of upholding the rights of individuals. This idea, falsely attributed to the Glorious Revolution despite Locke completing his second treatise prior to 1688, nevertheless helped to articulate the emerging concept of popular sovereignty which would later develop beyond a monarchical framing into our present conception of liberal democracy. Yet as liberalism developed during the 19th and especially the 20th century, the liberal understanding of rights began to shift. It became more broadly understood that values are subjective, not originating from any state of nature. Rather, societies construct their own values and preferences to a great degree. Consequently, natural law theory gave way for a different interpretation of our entitlements and persons: human rights.
 
@@ -41,7 +42,8 @@ With private property rights being a central tenet of liberalism’s platform, i
 For this reason, liberalism has a strong connection to the capitalist mode of economic organisation. Such developments are often connected, for good reason, to the work of Adam Smith. The publication of *The Wealth of Nations* in 1776 was a watershed moment both for the field of economics and for liberalism, as Smith defended the viability of what would become liberal economics. His [systematised explanation of the market and incentives structures]( http://www.starbooksfeaa.weebly.com/uploads/5/4/8/6/54869709/the_wordly_philosophers.pdf) thereof offers an explanation for how societies become prosperous; his notion of the ‘invisible hand’ endorses laissez-faire economics as the harmonisation of the self-interested pursuit of accumulation and benefit to the community as a whole. Commercial capitalism, thus, offers both a system of economic liberty and broader societal prosperity.
 
 ![Adam Smith](https://upload.wikimedia.org/wikipedia/commons/0/0a/AdamSmith.jpg)
-**Adam Smith - a significant figure in the development of liberal economics | Image source: Wikimedia Commons**
+
+**Adam Smith - a significant figure in the development of liberal economics | Image source: public domain, via Wikimedia Commons**
 
 With such scholarship taking place at the advent of the Industrial Revolution, it is no surprise that liberal economics changed with material conditions, for industrialisation presented just as many social challenges as opportunities. The liberal economists of the 19th century thus began to endorse a greater degree of redistribution in their theories, while attempting to harness the potential of the market and free trade. David Ricardo, John Stuart-Mill, Henry George, and Léon Walras all incorporated a critique of land monopolisation into their theories. Moreover, these left-liberal economists inspired liberal socialist economics predicated on the nationalisation of economic rent and greater workplace democracy, though crucially still operating in an otherwise free market.
 
@@ -62,7 +64,8 @@ This origin of libertarianism is interesting for two reasons. Firstly, the only 
 This becomes especially apparent when considering the divergence between liberals and libertarians on popular sovereignty. Though liberalism has a complicated relationship with the emergence of democratic republicanism following the French Revolution, liberals tend to view this system of government as at least passable. Democracy is, if not the best means of preserving a free society, at least better than other modes of government from the liberal perspective. Libertarians – conversely – have a long history of hostility to popular sovereignty, refusing to accept majority opinion as a legitimate basis for the use of state force. It therefore makes more sense to see libertarianism as an umbrella term for minarchists and anarchists, rather than synonymous with classical or neo-liberalism. Liberals believe that tyranny is the absence of law. Libertarians believe that tyranny is the imposition of law.
 
 ![Paris during the French Revolution](https://upload.wikimedia.org/wikipedia/commons/d/d9/11-french_revolution_1789.jpg)
-**The French Revolution - from which a system of popular sovereignty emerged | Image source: Wikimedia Commons, CC BY-SA 2.5**
+
+**The French Revolution - from which a system of popular sovereignty emerged | Image source: unknown author, via Wikimedia Commons, CC BY-SA 2.5**
 
 # Conclusion
 
