@@ -1,5 +1,5 @@
 ---
-title: "Political Satire in a Liberal Democracy – To Wound is to Prompt Change"
+title: "Political Satire in a Liberal Democracy – To Wound is To Prompt Change"
 draft: false
 date: 2026-02-07
 author: "Jason Manning"
@@ -20,6 +20,7 @@ So, it is a shame that satire is less of a force than it used to be. Over the ye
 It is alarming to see that the proliferation of mainstream satire is far diminished: most of the BBC’s satirical panel shows have bitten the dust, save for *HIGNFY* which continues in a primetime spot 20 Fridays a year. But *The Mash Report*, *New World Order*, and *The Ranganation* have evaporated from screens; *Mock the Week* disappeared in 2022 too, and although it may be making a comeback this year, it is in a distant backwater of the schedules rather than its prime position on BBC Two each week. This marks an alarming cultural trend in which the media is less willing to foreground satire of politicians. After years of the Conservatives being lukewarm towards the BBC, it is understandable to see that the BBC reduced its satirical output. 
 
 But this is nonetheless an alarming trend: for democracy to work well, there needs to be accountability of politicians; there needs to be scrutiny of government; and, if politicians are to take that seriously – if they are to feel concerned for their political futures and do their jobs well – we need to start protecting satire. A liberal democracy shouldn’t just value its free press for exposing the problems of government; it should value the satirist too for bringing those criticisms to life and applying pressure to politicians. It’s not too late to fix this issue - to compel broadcasters to value satire more. Ultimately, whilst not all issues are laughing matters, to laugh is to stun; to stun is to wound; and to wound is to prompt change.
+
 
 
 
