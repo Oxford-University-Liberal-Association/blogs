@@ -1,5 +1,5 @@
 ---
-title: "Local elections: crumbling pillars of democracy?"
+title: "Local Elections: Crumbling Pillars of Democracy?"
 draft: false
 date: 2026-01-22
 author: "Jason Manning"
@@ -22,6 +22,7 @@ There are some genuine concerns about holding elections this May. They would be 
 Worse still, if there were delays to the restructuring of government, we would be on a slippery slope with little way back. Although it might seem practical in the short term, saving costs and conserving time and resources for the overhaul of devolution, delaying elections would set a troubling precedent for the future of elections in the UK.
  
 At a time when democracy feels increasingly under threat, it would be a grave mistake to make.
+
 
 
 
