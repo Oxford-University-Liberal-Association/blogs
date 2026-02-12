@@ -1,5 +1,5 @@
 ---
-title: "What was and is liberalism?"
+title: "What Was and Is liberalism?"
 draft: false
 date: 2026-01-19
 author: "Robert Turner"
