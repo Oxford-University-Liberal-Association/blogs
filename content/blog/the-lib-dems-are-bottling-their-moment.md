@@ -1,7 +1,7 @@
 ---
 title: "The Liberal Democrats Are Bottling Their Moment"
 draft: true
-date: 2026-03-02
+date: 2026-03-04
 author: "Antonio Reis"
 college: "St Hugh's College"
 society_role: "Social Secretary"
@@ -58,3 +58,4 @@ This may appear idealistic, the vision of an unpragmatic young college student h
 The party has rebuilt and recovered from the coalition years. But rebuilding is not leading. How long will the Liberal Democrats be relegated to watersports and zipline stunts, while a party with eight MPs gets wall-to-wall coverage from the mainstream media? To experiment with a ‘Department for Growth’, they must first be elected into government. I may be young and idealistic, but I like to dream big for the parties I support, and I think some of that ambition and scope is at hand.
 
 The centre is open. The numbers suggest it is large, while the traditional parties are unstable. This is the kind of realignment that happens only generationally. If the Liberal Democrats cannot act like a party preparing to govern, they will be forced to the sidelines. If they do not seize this moment, someone else will.
+
