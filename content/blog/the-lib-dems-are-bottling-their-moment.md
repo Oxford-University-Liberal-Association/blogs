@@ -12,7 +12,7 @@ categories: ["HT26 - Freedom of the Press"]
 *There is an unprecedented political opportunity - they cannot afford to waste it.*
 
 
-On the 11th February 2026, Liberal Democrat deputy leader Daisy Cooper announced a flagship plan to scrap the Treasury & the Department for Business and Trade, [replacing them with a new ‘Department for Growth’ based in  Birmingham](https://www.theguardian.com/search?q=Lib%20Dems%20scrap%20Treasury%20Department%20for%20Growth). The proposal is meant to rejuvenate the United Kingdom’s ever-stagnant economic growth & productivity, and work towards devolving the British government from Whitehall.
+On the 11th February 2026, Liberal Democrat deputy leader Daisy Cooper announced a flagship plan to scrap the Treasury & the Department for Business and Trade, [replacing them with a new ‘Department for Growth’ based in  Birmingham](https://www.theguardian.com/politics/2026/feb/11/lib-dems-plan-scrap-treasury-new-department-for-growth). The proposal is meant to rejuvenate the United Kingdom’s ever-stagnant economic growth & productivity, and work towards devolving the British government from Whitehall.
 
 These are noble goals, but this is not the way to achieve them. It seems instead like performative reshuffling: calling the Treasury a “Department for Growth” will not generate growth any more than relocating ministers will solve Britain’s structural regional inequality. It is a pointless ‘renaming the Gulf of Mexico’-style move.
 
@@ -58,5 +58,6 @@ This may appear idealistic, the vision of an unpragmatic young college student h
 The party has rebuilt and recovered from the coalition years. But rebuilding is not leading. How long will the Liberal Democrats be relegated to water sports and zipline stunts, while a party with eight MPs gets wall-to-wall coverage from the mainstream media? To experiment with a ‘Department for Growth’, they must first be elected into government. I may be young and idealistic, but I like to dream big for the parties I support, and I think some of that ambition and scope is at hand.
 
 The centre is open. The numbers suggest it is large, while the traditional parties are unstable. This is the kind of realignment that happens only generationally. If the Liberal Democrats cannot act like a party preparing to govern, they will be forced to the sidelines. If they do not seize this moment, someone else will.
+
 
 
