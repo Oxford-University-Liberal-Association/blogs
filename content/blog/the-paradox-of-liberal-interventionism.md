@@ -1,55 +1,13 @@
-<!---
-Official Template for OSLA Blog Website
-by Hayden Williams, the Webmaster (HT25)
--->
 ---
 title: "The Paradox of Liberal Interventionism"
 draft: false
-<!---
-Draft (false) = published on website
-Draft (true) = unpublished on website (although not ideal
-to use!)
--->
 date: 2026-05-30
-<!---
-Date format: YYYY-MM-DD
--->
 author: "Antonio Reis"
-<!---
-Author: Your full name
--->
 college: "St Hugh's College"
-OSLA Blog 3
-<!---
-Oxford [College/Brookes]: Please refrain from Latin naming
-as tempting as it is;
-this may confuse readers ... if you must ... ensure that y
-ou put the commonly-used English for the college in bracke
-ts after (looking at you Zagham!)
--->
 society_role: "Junior Treasurer"
-<!---
-OSLA Association Role: Please leave this as 'Ordinary Memb
-er' or an official Association title.
--->
 tags: ["TT26"]
-<!---
-Tags: think of these like hashtags on X/Twitter. We usuall
-y use term names here e.g. HT25
--->
 categories: ["OSLA"]
-<!---
-Categories: similar to tags but less useful. Recommended t
-o leave as 'OSLA'
-for SEO.
--->
 ---
-<!---
-Below is where you write a concise 'hook' introduction for
-readers which is displayed as the preview when navigating
-the main blog 'gallery'. NOTE: This is content before the
-MORE tag below. After is not shown in the preview.
--->
 The central problem for liberal interventionism is that it tries to act on two principles which cannot both be fully satisfied in an anarchic international system. Cosmopolitan liberalism says that individuals possess fundamental rights as human beings, not merely as citizens of a particular state. Why should a dictator be allowed to murder his own people simply because they are “his” people? Simultaneously, political self-determination says that peoples should govern themselves without external coercion. Why should a foreign state decide when another people are no longer governing themselves?
 <!--more-->
 If liberal interventionism was crippled in Iraq, it died in Libya. 
@@ -63,7 +21,6 @@ The central problem for liberal interventionism is that it tries to act on two p
 Both of these are liberal and necessary. Yet, they often pull in opposite directions. This is the intervention paradox: liberalism wants to protect individuals from tyrants, but it also wants people to rule themselves.
 
 Locke gives liberal theorists one answer. When rulers violate the people’s rights and reduce them to “slavery under arbitrary power”, they put themselves into a “state of war with the people”, who are then “absolved from any farther obedience”. Political power is not a blank cheque. It is conditional on the purposes for which it was granted: the protection of life, liberty, and property. When a government becomes the organised enemy of those rights, its claim to authority collapses.
-
 
 Locke’s theory is compelling as it concerns domestic political authority, but when extended to foreign intervention, it is incomplete. If the people rise up and overthrow their tyrannical government, the answer is simple enough. The harder cases are those where repression works and a domestic revolt is unlikely despite reprehensible atrocities. Justifying external involvement is more strenuous because sovereignty protects states from external interference. Who outside that political community has the right to enforce that judgment? How many victims must a government create before that protection expires: ten thousand? A hundred thousand? An entire ethnic group?
 
@@ -99,7 +56,6 @@ A self-respecting liberal cannot look at this and say ‘it’s their business�
 
 But that does not yet make outside military intervention legitimate. The UN’s veto problem leaves the United States as the most plausible external military actor, but this immediately creates a legitimacy problem: America has a history of intervention in Iranian politics, and Donald Trump makes any ‘humanitarian’ justification suspect.
 
-
 Even if some Iranian dissidents welcomed external pressure, the regime already frames opposition as foreign-backed; intervention would make that claim easier to sell. It is very doubtful that the second condition is met.
 
 The practical case is no easier. Iran is not Libya. It is large, nationally conscious, and militarily capable. The regime’s display of its ability to shut the Strait of Hormuz and cripple global energy markets makes it difficult to defeat. There is no guarantee that the third condition can be met either, painting a dismal picture for any potential interventionist.
@@ -107,7 +63,3 @@ The practical case is no easier. Iran is not Libya. It is large, nationally cons
 The stronger the moral case against a regime, the stronger the urge to just do something. But the more unilateral and externally imposed that intervention is, the heavier its burden of justification. It may still be defensible, as Kosovo shows, but the burden of justification becomes heavier because the intervention is harder to distinguish from selective power politics. Liberal politics is committed both to protecting individuals from tyrants and to allowing people to rule themselves. The answer cannot be that liberal interventionism is always wrong. The cases of Kosovo, East Timor, and Sierra Leone prove its potential, while Rwanda and Srebrenica remind us of the risks of casting it aside. 
 
 But Iraq and Libya should have ended the delusion that good intentions are all that matter. The tragedy of liberal interventionism is that the hawk sees the dissident being beaten and says: we cannot do nothing, while the dove sees the foreign army crossing the border and says: this is not your country to remake. Both are right about something. Neither has solved the problem. The tragedy is that remembering both may still not tell us what to do.
-
-<!---
-Write your posts' main body above.
--->
