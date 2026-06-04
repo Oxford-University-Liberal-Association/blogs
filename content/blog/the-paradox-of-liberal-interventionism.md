@@ -8,8 +8,6 @@ society_role: "Junior Treasurer"
 tags: ["TT26"]
 categories: ["OSLA"]
 ---
-The central problem for liberal interventionism is that it tries to act on two principles which cannot both be fully satisfied in an anarchic international system. Cosmopolitan liberalism says that individuals possess fundamental rights as human beings, not merely as citizens of a particular state. Why should a dictator be allowed to murder his own people simply because they are “his” people? Simultaneously, political self-determination says that peoples should govern themselves without external coercion. Why should a foreign state decide when another people are no longer governing themselves?
-<!--more-->
 If liberal interventionism was crippled in Iraq, it died in Libya. 
 
 Iraq showed the world how easily liberal language could be attached to regime change, then Libya showed that even a more recognisably humanitarian intervention could still end in collapse.
