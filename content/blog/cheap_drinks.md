@@ -1,5 +1,5 @@
 ---
-title: "I only came for the cheap drinks"
+title: "I Only Came For The Cheap Drinks"
 draft: false
 date: 2026-06-19
 author: "Thomas Dorey"
